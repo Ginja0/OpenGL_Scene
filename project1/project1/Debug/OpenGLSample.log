@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(184,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(266,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(301,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(302,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(309,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(310,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(317,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(318,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(325,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(326,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(334,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(335,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(202,15): warning C4101: 'VBO3': unreferenced local variable
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(202,21): warning C4101: 'pyramidVAO': unreferenced local variable
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(472,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(473,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(477,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(478,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(480,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(481,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sendj\Downloads\milestone-sample\milestone-sample\OpenGLSample\Source.cpp(490,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\sendj\Downloads\milestone-sample\milestone-sample\Debug\OpenGLSample.exe
